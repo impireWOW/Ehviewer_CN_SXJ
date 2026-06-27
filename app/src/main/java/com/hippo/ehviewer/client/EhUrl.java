@@ -34,7 +34,7 @@ public class EhUrl {
     public static final int SITE_E = 0;
     public static final int SITE_EX = 1;
 
-    public static final String DOMAIN_EX = "exhentai.org";
+    public static final String DOMAIN_EX = "ex.fangliding.eu.org";
     public static final String DOMAIN_E = "e-hentai.org";
     public static final String DOMAIN_LOFI = "lofi.e-hentai.org";
 
@@ -54,8 +54,8 @@ public class EhUrl {
     public static final String HOME_E = HOST_E + "home.php";
     public static final String HOME_EX = HOST_EX + "home.php";
 
-    public static final String URL_POPULAR_E = "https://e-hentai.org/popular";
-    public static final String URL_POPULAR_EX = "https://exhentai.org/popular";
+    public static final String URL_POPULAR_E = HOST_E + "popular";
+    public static final String URL_POPULAR_EX = HOST_EX + "popular";
 
     public static final String URL_TOP_LIST_E = HOST_E+"toplist.php";
     public static final String URL_TOP_LIST_EX = HOST_EX+"toplist.php";
